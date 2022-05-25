@@ -19,6 +19,13 @@
 				"Mac",
 				"Linux"
 			]
+<<<<<<< Updated upstream
+=======
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+>>>>>>> Stashed changes
 		}
 	]
 }
